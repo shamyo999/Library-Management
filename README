@@ -1,0 +1,18 @@
+# Library Management System (Java)
+
+## Features
+- Add books
+- Borrow books (limit: 3 per user)
+- Return books
+- View available books
+- View user status
+
+## Concepts Used
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Encapsulation
+- HashMap & ArrayList
+
+## How to Run
+- Compile all Java files
+- Run Main.java
